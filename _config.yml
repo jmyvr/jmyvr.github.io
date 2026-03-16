@@ -10,15 +10,15 @@ description: > # this means to ignore newlines until "email:"
 
 email: jonahmarshallyvr@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/icon.png"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/stanley_park.jpg"
 
 name: 'Jonah Marshall'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+author: 'Jonah Marshall'
+author_image: "/assets/images/me.jpg"
 
 paginate:	5
 
@@ -34,30 +34,25 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+ 
+  - icon:	envelope
+    url:	mailto:jonahmarshallyvr@gmail
+    desc:	Send me an email
     share_url:
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+    
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/jonah-marshall-splash/
+    desc:	Reach out on linkedin
+    share_url:
+    share_title:
+    share_link:
+    
+  - icon:	file
+    url:	mailto:splash/
+    desc:	Check out my CV
+    share_url:
+    share_title:
+    share_link:

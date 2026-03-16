@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Thoughts on:<br> Hollowknight: Silksong"
+date:   2026-3-11
+categories: games
+tags: 
+image: /assets/article_images/silk1.jpg
+---
+# Summary:
+
+Hollowknight: Silksong (Silksong from now on) is a sequel to the indie Metroidvania Hollowknight. Following a different character from the previous game, we explore a new environment centered around ascending through the fallen kingdom of Pharloom. The gameplay loop follows the classic Metroidvania pattern of wander around, find a boss to fight, unlock a new ability that lets you explore more of the map, backtrack through areas with your new abilities, repeat. 
+
+# Gameplay: 
+
+Silksong’s gameplay is significantly less casual than that of Hollowknight. While the boss pattern section of the game isn’t harder than before, the map is much more expansive, making it more challenging to keep track of where you are and navigate until you find a map merchant. Platforming is also much trickier in Silksong. While Hollowknight did have platforming components, it did not feel like a major component for most of the game. In Silksong, on the other hand, there are regularly challenging sections just in moving around the map. So much so that since release they have had to rebalance and change sections of certain zones to reduce player frustration. I think there are pros and cons to this. In theory, with movement being a more difficult and necessary skill to progress through the game, the player achieves a better mastery of the game allowing for more intricate fights, However, I have not found this to be the case so far. I think that Silksong just leaned into being more of a platformer than Hollowknight did. It is  a different identity for the game that may make the game enjoyable for some, but which definitely alienates others. Looking at the Steam completion achievements, Hollowknight sits at 25% having beaten the final boss, whereas Silksong sits at 16.5%. I view this as an issue of player enjoyment. By making the map challenging to maneuver when the player dies and has to get back from their last save point, if the feeling of getting back to that point is not enjoyable the player is much more likely to put the game down for a bit. But  with movement being the element of the game that requires the most practice, extended breaks from Silksong make it daunting to get back into.
+
+Silksong deviates from Hollowknight's character build structure pretty significantly, In Hollowknight you have the regular directional attacks: up, down and neutrals basic hits, as well as up, down, side, and neutral special attacks. You can equip charms that modify what these special attacks do to modify how you play. Silksong rebuilt this system from the group up. You have “Crests” which replace what your basic hits do, as well as your neutral special. Instead of having an up and down special, the player is able to equip different tools that fill these slots, providing different types of attack utility, as well as different side specials to equip. Between all of these systems Silksong allows the player a much more customizable skillset allowing for better player expression during combat. The main draw for me to this genre is the challenge of having to practice and overcome the challenges of a boss fight, the ability to develop your own strategies–  as opposed to feeling like patterns have preset responses– really makes the combat feel more fluid. 
+
+# Packaging: 
+
+Silksong’s packaging stays true to Hollowknight, maintaining its distinctive art style and coming with another beautiful soundtrack. Had it not come out in the same year as Expedition 33 it would have received more accolades than it did. It feels polished and fleshed out and maintains this quality despite the much larger scale of Silksong. However it doesn’t present much new to set it apart, embodying the “If it isn’t broken don’t fix it” ethos more so than most other sequels. 
