@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Jonah M | Portfolio"
+title: "Jonah Marshall | Portfolio"
 description: > # this means to ignore newlines until "email:"
-   Welcome to my website, check out my thoughts on games I've played below!
+   Welcome to my website, check out my thoughts on games I've played or look at some of the work I've done!
 
 email: jonahmarshallyvr@gmail.com
 #blog logo
@@ -22,7 +22,7 @@ author_image: "/assets/images/me.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "jonahmarshall.cv" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 #twitter_handle: '@dirkfabisch'
@@ -51,8 +51,10 @@ social:
     share_link:
     
   - icon:	file
-    url:	mailto:splash/
+    url:	https://github.com/jmyvr/mediator/blob/cb8ea3d2bcc38c258bc9091cb3d4da74ac423595/assets/Jonah_Marshall_Resume.pdf
     desc:	Check out my CV
     share_url:
     share_title:
     share_link:
+    
+
